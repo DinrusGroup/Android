@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="i:/JHelp" />
+    <option name="LOCALE" value="ru_RU" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Android API 28 Platform" project-jdk-type="Android SDK" />
+</project>
